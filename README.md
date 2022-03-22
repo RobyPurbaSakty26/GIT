@@ -1,7 +1,8 @@
 # ini merupakan projek latihan
 
 
-#### Digunakan untuk membuat folder menjadi repository 
+
+### Digunakan untuk membuat folder menjadi repository 
 ``` Git init ```
 
 ### Digunakan untuk melakukan kloning dari git 
