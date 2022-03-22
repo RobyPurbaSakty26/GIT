@@ -53,5 +53,9 @@ Git clone
 
 ### Menambahkan remote
  ``` git remote add origin https://github.com/RobyPurbaSakty26/GIT.git ```
+ ### mengambil data dari github
+ ``` git fech  ```
 
+ ### malihat conflic antara git dan github
+ ``` git pull ```
 
