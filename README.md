@@ -1,55 +1,56 @@
 # ini merupakan projek latihan
 
 
-Git init 
-Digunakan untuk membuat folder menjadi repository 
+### Digunakan untuk membuat folder menjadi repository 
+``` Git init ```
 
+### Digunakan untuk melakukan kloning dari git 
 Git clone 
-Digunakan untuk melakukan kloning dari git 
 
-Git remote -v 
-Digunakan untuk mengetahui kemana repository melakukan remote
+### Digunakan untuk mengetahui kemana repository melakukan remote
+ ```Git remote -v ```
 
-Git add
-Digunakan untuk menambahkan file 
+### Digunakan untuk menambahkan file 
+ ```Git add```
 
-git rm --cached <file>…
-Digunakan untuk menghapus git dari lis commit
+### Digunakan untuk menghapus git dari lis commit
+ ```git rm --cached <file>…```
 
-Git commit -m ‘pesan’
-Untuk melakukan commit pada git
+### Untuk melakukan commit pada git
+ ```Git commit -m ‘pesan’```
 
-Keluar dari vim
-Esc :q!
+### Keluar dari vim
+```Esc :q!```
 
-Git log 
-Melihat semua aktivitas commit
+### Melihat semua aktivitas commit
+ ```Git log ```
 
-Git log -3
-Melihat 3 commit terakhir
+### Melihat 3 commit terakhir
+ ```Git log -3```
 
-Git log -- style
-Mencari log dengan kategori tertentu
+### Mencari log dengan kategori tertentu
+ ```Git log -- style```
 
-git checkout 60896 -- style.css
-Mengembalikan file css yang sebelumnya telah dihapus
+### Mengembalikan file css yang sebelumnya telah dihapus
+ ```git checkout 60896 -- style.css```
 
-git log --all --decorate --oneline --graph
-Membuat graph 
+### Membuat graph 
+ ``` git log --all --decorate --oneline --graph ``` 
 
-Checkout <nama branch>
-Cara untuk pindah ke branch lain
+### Cara untuk pindah ke branch lain
+ Checkout <nama branch>
 
-Git branch -d <nama branch>
-Menghapus branch
+### Menghapus branch
+``` Git branch -d <nama branch>```
 
-Git branch --merge
-Digunakan untuk mengecek branch yang sudah di gabung
 
-Git config --lis
-Melihat lis konfigurasi
+### Digunakan untuk mengecek branch yang sudah di gabung
+ Git branch --merge
 
-git remote add origin https://github.com/RobyPurbaSakty26/GIT.git
-Menambahkan remote
+### Melihat lis konfigurasi
+ ```Git config --lis```
+
+### Menambahkan remote
+ ``` git remote add origin https://github.com/RobyPurbaSakty26/GIT.git ```
 
 
